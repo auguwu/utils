@@ -49,7 +49,7 @@
     },
     "devDependencies": {
         "@actions/core": "1.11.1",
-        "@augu/eslint-config": "5.3.0",
+        "@augu/eslint-config": "5.3.1",
         "@augu/tsconfig": "1.2.0",
         "@types/bun": "1.1.13",
         "@types/node": "22.9.4",
